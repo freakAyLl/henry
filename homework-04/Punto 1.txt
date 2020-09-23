@@ -1,0 +1,1 @@
+* Arrays: un array es un arreglo donde cada uno tiene su posicion. Es como un jenga donde vas poniendo las maderitas cada una en su lugar hasta donde quieras o puedas.
