@@ -1,0 +1,5 @@
+* `for`= este es una estructura que repite una cantidad de veces lo que este dentro de ella. Un ejemplo seria referirnos a una pista de autos, donde se repetira una cantidad de vueltas el circuito, siendo este ultimo lo que esta dentro del for.
+* `&&`, `||`, `!`= estos son operadores logicos. 
+		El primero && es en el que ambas condiciones deben cumplirse para que sea verdadera; por ejemplo si yo quiero un helado tengo que "tener ganas de comer" y (&&) "una heladeria" por lo que si yo no cumplo una de esas cosas no me tomaria el helado. 
+		El segundo || es en el que se puede cumplir una o dos de las condiciones para que sea verdadera; por ejemplo si quiero un "helado" o (||) "un chupetin" no importa si consigo los dos o solo uno, de cualquier manera voy a comer (verdaero) a menos que no me compren nada (falso)
+		El tercero ! es el operador de negacion; por ejemplo si en el caso anterior yo no quisiera comer este funcionaria como un no tengo hambre.
