@@ -1,5 +1,5 @@
-* Variables = es un espacio reservado que puede tomar caulquier valor, es como una plastilina a la cual yo le puedo dar la forma que quiero segun me convenga. 
-* Strings = es una cadena de texto, esta es cualquier palabra, número o simbolo reservado para ello.
+* Variables = es un espacio reservado que puede tomar cualquier valor, es como una plastilina a la cual yo le puedo dar la forma que quiero según me convenga. 
+* Strings = es una cadena de texto, esta es cualquier palabra, número o símbolo reservado para ello.
 * Funciones (argumentos, `return`) = 
-* Declaraciones `if` = es una estructura que me pone condicionantes, por ejemplo en una ruta con tres caminos el if seria el cartel que te indica hacia donde ir, y dependiendo de hacia donde yo quiero ir tomare el camino que sea necesario. Si yo querráa ir para buenos aires tomo un camino, si yo quiero ir a rosario tomo otro camino, y si quiero ir a mendoza tomaria otro.
-* Valores booleanos (`true`, `false`) = Estos son los que dictan cuando algo es verdarero y cuando no. Serian como un detector de mentiras donde si decis la verdad se prenderia la luz verde (true) y si mentis la roja (false). 
+* Declaraciones `if` = es una estructura que me pone condicionantes, por ejemplo, en una ruta con tres caminos el if sería el cartel que te indica hacia donde ir, y dependiendo de hacia donde yo quiero ir tomare el camino que sea necesario. Si yo querría ir para buenos aires tomo un camino, si yo quiero ir a rosario tomo otro camino, y si quiero ir a Mendoza tomaría otro.
+* Valores booleanos (`true`, `false`) = Estos son los que dictan cuando algo es verdadero y cuando no. Serian como un detector de mentiras donde si decís la verdad se prendería la luz verde (true) y si mentís la roja (false).
