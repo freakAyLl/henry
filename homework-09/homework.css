@@ -1,0 +1,99 @@
+/*
+Lección 3: Tarea de posicionamiento con CSS. Todo el trabajo debe hacerse en este archivo, por lo que si estás tocando cualquier otro
+archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
+*/
+
+
+/* Ejercicio 1: Centrar el texto en un span */
+
+
+/* Arrancaremos este ejercicio por vos: */
+
+#ejercicioUno {
+    display: block;
+    /*como span es inlone, lo paso a block para poder aplicar el text-align es necesario transformarlo en block con la propiedad display*/
+    text-align: center;
+    /*alineo el texto en el centro*/
+}
+
+
+/* Ejercicio 2: Posicionar el header */
+
+
+/* Acá va tu código */
+
+#ejercicioDos {
+    visibility: hidden;
+    /*oculto el placeholder*/
+}
+
+
+/* Ejercicio 3: */
+
+
+/* Acá va tu código */
+
+#ejercicioTres {
+    position: relative;
+    left: 200px;
+    top: 100px;
+}
+
+
+/* Ejercicio 4: */
+
+
+/* Acá va tu código */
+
+#ejercicioCuatro {
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+
+/* Ejercicio 5 y 6: */
+
+
+/* Acá va tu código */
+
+#ejercicioCinco {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+
+
+/* Ejercicio 6. */
+
+
+/* Acá va tu código */
+
+#elementoUno {
+    display: flex;
+    position: relative;
+    left: 245px;
+    top: 104px;
+}
+
+#elementoDos {
+    display: flex;
+    position: relative;
+    right: 2px;
+    top: 104px;
+}
+
+#elementoTres {
+    display: flex;
+    position: relative;
+    top: 208px;
+    left: 0px;
+}
+
+#elementoCuatro {
+    display: flex;
+    position: relative;
+    top: 208px;
+    right: 252px;
+}
