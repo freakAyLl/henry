@@ -1,0 +1,1 @@
+Funciones Callback: esto es un método que tiene java de meter una función como argumento de otra función. Seria como decir que tengo mi puerta en el autito que tiene la función de abrir y cerrar, pero que, además; si yo quiero también dentro de esa función de puerta, está la función abrir y cerrar ventana como propiedad de la misma.
